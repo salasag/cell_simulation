@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data type = "FileData">
+	<type>wator</type>
+	<param1>10</param1>
+	<param2>9</param2>
+	<author>Jack</author>
+	<gridrows>20</gridrows>
+	<gridcolumns>20</gridcolumns>
+	<title>Predators</title>
+	<gridshape>square</gridshape>
+	<edgetype>finite</edgetype>
+	<gridoutlined>true</gridoutlined>
+	<cellcolor>blue</cellcolor>
+	<cellshape>square</cellshape>
+	<speed>5</speed>
+	<initialstate>
+	00000000000000000000
+	01111111111111111110
+	00000000000000000000
+	00000000000000000000
+	01111111111111111110
+	01111111100011111110
+	00000000000000000000
+	01111111122211111110
+	01111111111111111110
+	01111111122211111110
+	00000000000000000000
+	01111111122211111110
+	01111111111111111110
+	00000000000000000000
+	01111111122211111110
+	01111111111111111110
+	00000000000000000000
+	00000000000000000000
+	00000000000000000000
+	00000000000000000000</initialstate>
+</data>

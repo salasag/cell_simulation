@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data type = "FileData">
+	<type>conway</type>
+	<param1>0</param1>
+	<param2>0</param2>
+	<author>Jack</author>
+	<gridrows>20</gridrows>
+	<gridcolumns>20</gridcolumns>
+	<title>Glider</title>
+	<gridshape>square</gridshape>
+	<edgetype>wrapped</edgetype>
+	<gridoutlined>false</gridoutlined>
+	<cellcolor>blue</cellcolor>
+	<cellshape>square</cellshape>
+	<speed>10</speed>
+	<initialstate>(17,17,1)(17,18,1)(18,17,1)(18,19,1)(19,17,1)</initialstate>
+</data>

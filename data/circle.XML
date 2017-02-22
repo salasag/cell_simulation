@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data type = "FileData">
+	<type>fire</type>
+	<param1>50</param1>
+	<param2>0</param2>
+	<author>Jack</author>
+	<gridrows>8</gridrows>
+	<gridcolumns>10</gridcolumns>
+	<title>smallfire</title>
+	<speed>10</speed>
+	<gridshape>square</gridshape>
+	<edgetype>finite</edgetype>
+	<gridoutlined>false</gridoutlined>
+	<cellcolor>blue</cellcolor>
+	<cellshape>square</cellshape>
+	<initialstate>
+	0000000000
+	0111111110
+	0011221100
+	0011111100
+	0011111100
+	0011221100
+	0111111110
+	0000000000</initialstate>
+</data>
